@@ -1,5 +1,0 @@
-C:\Users\hp\Desktop\C family\C++\GUI2\x64\Debug\GUI2.vcxproj.AssemblyReference.cache
-C:\Users\hp\Desktop\C family\C++\GUI2\x64\Debug\GUI2.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\hp\Desktop\C family\C++\GUI2\x64\Debug\GUI2.exe
-C:\Users\hp\Desktop\C family\C++\GUI2\x64\Debug\GUI2.MyForm.resources
-C:\Users\hp\Desktop\C family\C++\GUI2\x64\Debug\GUI2.vcxproj.GenerateResource.cache
